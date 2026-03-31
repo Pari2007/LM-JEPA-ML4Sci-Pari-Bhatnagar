@@ -46,3 +46,5 @@ This repository contains the implementation of a **Joint-Embedding Predictive Ar
 * **The 40% Threshold:** Beyond 40% random masking, the model begins to "leak" QCD samples into the QED manifold due to the loss of specific $SU(3)$ indices.
 * **Symmetry DNA:** Saliency maps confirm that the model prioritizes **Lorentz indices** and **Color factors** over common operators, proving it is learning physics, not just syntax.
 * **Complexity Sensitivity:** Identified a performance decay as mathematical complexity (character count) increases, establishing the "Extreme" complexity zone as a core target for future architectural refinements.
+
+Link to download the Model weights : https://drive.google.com/drive/folders/1x2gOHXNKExrnzvz6dJD2kCHStf7acbAD?usp=drive_link
